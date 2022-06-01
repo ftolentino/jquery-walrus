@@ -1,6 +1,6 @@
 # HTML-help
 
-#### By _**Filmer Tolentino**_ _**, Matt Hebert**_
+#### By _**Filmer Tolentino**_ _**, Matt Herbert**_
 
 #### _jQuery Epicodus lesson_
 

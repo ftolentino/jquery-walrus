@@ -19,3 +19,16 @@ p {
 /* p:hover {
   text-decoration: underline;
 } */
+
+.sand-castles-hidden {
+  display: none;
+}
+
+.newClickable {
+  cursor: pointer;
+  color: blueviolet;
+}
+
+.newClickable:hover {
+  font-size: 3rem;
+}

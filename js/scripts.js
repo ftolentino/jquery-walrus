@@ -4,3 +4,11 @@ $(document).ready(function() {
     $("#walrus-hidden").slideToggle();
   });
 });
+
+$(document).ready(function() {
+  $(".newClickable").click(function() {
+    $(".sand-castles-hidden").slideToggle();
+    $(".sand-castles-show").slideToggle();
+
+  });
+});
