@@ -32,3 +32,19 @@ p {
 .newClickable:hover {
   font-size: 3rem;
 }
+
+.light-text {
+  color:cornsilk;
+}
+
+.dark-text {
+  color:red;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.dark-background {
+  background-color:rgb(34, 35, 35)
+}

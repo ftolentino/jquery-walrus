@@ -12,3 +12,19 @@ $(document).ready(function() {
 
   });
 });
+
+$(document).ready(function() {
+  $("button#light").click(function () {
+    $(".light-text").removeClass();
+    $("body").removeClass();
+  });
+});
+
+$(document).ready(function() {
+  $("button#dark").click(function () {
+    $("body").removeClass();
+    $(".dark-text").removeClass()
+    $(".dark-text").addClass("light-text");
+    $("body").addClass("bg-dark");
+  });
+});

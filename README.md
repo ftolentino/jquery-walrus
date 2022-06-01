@@ -1,4 +1,4 @@
-# HTML-help
+# Walrus Peekaboo
 
 #### By _**Filmer Tolentino**_ _**, Matt Herbert**_
 
