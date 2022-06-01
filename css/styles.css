@@ -11,15 +11,6 @@
   text-decoration: underline;
 }
 
-p {
-  /* cursor: pointer; */
-  color: #0088cc;
-}
-
-/* p:hover {
-  text-decoration: underline;
-} */
-
 .sand-castles-hidden {
   display: none;
 }
@@ -34,11 +25,12 @@ p {
 }
 
 .light-text {
-  color:cornsilk;
+  color: white;
 }
 
 .dark-text {
-  color:red;
+  color:black;
+  font-size: 10rem;
 }
 
 .light-background {
